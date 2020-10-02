@@ -1,0 +1,12 @@
+{
+  "name": "flight_table",
+  "version": "0.0.4",
+  "dependencies": {
+    "actions-on-google": "^2.13.0",
+    "amadeus": "5.3.0",
+    "dialogflow-fulfillment": "0.6.1",
+    "firebase-admin": "^9.2.0",
+    "firebase-functions": "^3.0.0",
+    "latinize": "^0.4.1"
+  }
+}
